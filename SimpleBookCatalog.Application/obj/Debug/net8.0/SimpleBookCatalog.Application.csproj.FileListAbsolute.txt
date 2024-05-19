@@ -1,0 +1,15 @@
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net8.0\SimpleBookCatalog.Application.deps.json
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net8.0\SimpleBookCatalog.Application.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net8.0\SimpleBookCatalog.Application.pdb
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.csproj.AssemblyReference.cache
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.AssemblyInfoInputs.cache
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.AssemblyInfo.cs
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBo.1B9AC495.Up2Date
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\refint\SimpleBookCatalog.Application.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\SimpleBookCatalog.Application.pdb
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net8.0\ref\SimpleBookCatalog.Application.dll

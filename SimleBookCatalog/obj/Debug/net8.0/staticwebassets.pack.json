@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimleBookCatalog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimleBookCatalog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimleBookCatalog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimleBookCatalog.props",
+      "PackagePath": "build\\SimleBookCatalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimleBookCatalog.props",
+      "PackagePath": "buildMultiTargeting\\SimleBookCatalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimleBookCatalog.props",
+      "PackagePath": "buildTransitive\\SimleBookCatalog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.deps.json
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfo.cs
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\tfbie\OneDrive\Documents\repos\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll

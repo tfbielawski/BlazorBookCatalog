@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\SimleBookCatalog.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\SimleBookCatalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\SimleBookCatalog.csproj",
+        "projectName": "SimleBookCatalog",
+        "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\SimleBookCatalog.csproj",
+        "packagesPath": "C:\\Users\\tfbie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+                "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
+              },
+              "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
+        "projectName": "SimpleBookCatalog.Application",
+        "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
+        "packagesPath": "C:\\Users\\tfbie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "projectName": "SimpleBookCatalog.Domain",
+        "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\tfbie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
+        "projectName": "SimpleBookCatalog.Infrastructure",
+        "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tfbie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+                "projectPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

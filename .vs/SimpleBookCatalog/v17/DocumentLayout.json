@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\confirmdialog.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\confirmdialog.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2088EB70-FA08-402C-B3D1-1241143BF90A}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2088EB70-FA08-402C-B3D1-1241143BF90A}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E60C7E9-BCE3-41EE-9B7E-5AF72A472D88}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E60C7E9-BCE3-41EE-9B7E-5AF72A472D88}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|solutionrelative:simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simlebookcatalog\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6D0CD-E745-4DF5-85C2-9E280001B209}|SimleBookCatalog\\SimleBookCatalog.csproj|solutionrelative:simlebookcatalog\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056CBB41-4C77-4FA4-838F-A3205B27934C}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|c:\\users\\tfbie\\onedrive\\documents\\repos\\simplebookcatalog\\simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056CBB41-4C77-4FA4-838F-A3205B27934C}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|solutionrelative:simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmDialog.razor.css",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\ConfirmDialog.razor.css",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\ConfirmDialog.razor.css",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\ConfirmDialog.razor.css",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\ConfirmDialog.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T21:56:30.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCard.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\BookCard.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\BookCard.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\BookCard.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\BookCard.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:08:24.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmDialog.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\ConfirmDialog.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\ConfirmDialog.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\ConfirmDialog.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\ConfirmDialog.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:46:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookForm.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\BookForm.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\BookForm.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\BookForm.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\BookForm.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAGYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T21:17:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\Edit.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\Pages\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:39:19.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\Pages\\List.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\List.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\Pages\\List.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:01:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:49:55.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Program.cs",
+              "RelativeToolTip": "SimleBookCatalog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:42:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:25:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:24:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SimleBookCatalog\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimleBookCatalog\\Components\\App.razor",
+              "RelativeToolTip": "SimleBookCatalog\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:51:17.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\tfbie\\OneDrive\\Documents\\repos\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:19:03.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
